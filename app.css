@@ -37,6 +37,7 @@ body{
     overflow-x: hidden;
 }
 p {
+    font-size: .9rem;
     color: var(--fg);
 }
 /*TOP*/
@@ -111,6 +112,7 @@ h1 {
     padding: 0 1rem;
 }
 a {
+    font-size: .9rem;
     color: var(--fg);
 }
 a:hover {
