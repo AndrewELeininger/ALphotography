@@ -36,6 +36,9 @@ body{
     margin: 0;
     overflow-x: hidden;
 }
+p {
+    color: var(--fg);
+}
 /*TOP*/
 .hero {
     display: block;
@@ -69,8 +72,8 @@ h1 {
     padding: 1rem 3rem;
     background-color: var(--bg);
 }
-p {
-    color: var(--fg);
+.intro {
+    font-size: 1.2rem;
 }
 .headshot {
     width: 250px;
