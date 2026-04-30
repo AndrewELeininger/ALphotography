@@ -37,7 +37,7 @@ body{
     overflow-x: hidden;
 }
 p {
-    font-size: .9rem;
+    font-size: .85rem;
     color: var(--fg);
 }
 /*TOP*/
@@ -114,7 +114,7 @@ h1 {
     padding: 0 1rem;
 }
 a {
-    font-size: .9rem;
+    font-size: .85rem;
     color: var(--fg);
 }
 a:hover {
@@ -130,10 +130,11 @@ a:hover {
     .me {
         height: 200px;
         grid-template-columns: repeat(2, 200px);
+        padding: 1rem;
     }
     .headshot {
-        width: 160px;
-        height: 160px;
+        width: 150px;
+        height: 150px;
     }
     .gal-img {
         width: 45%;
